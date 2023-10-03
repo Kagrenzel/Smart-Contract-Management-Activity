@@ -1,4 +1,4 @@
-# Error Handling Program
+# Metamask Account Details Retriever
 
 This Solidity smart contract basically shows how a user can connect his/her metamask wallet to a front end and
 shows how his/her account information can be retrieved and shown on the front-end
